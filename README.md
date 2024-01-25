@@ -1,7 +1,8 @@
 # Database for coffee shops using SQL 
 Study case, my own work.
 
-Independent coffee shop owners from several major UK cities collaborated and decided to create an online database where they could share and manage information with each other. The requirement was to collect and store customer data (according to all recent regulations, e.g. privacy and information sharing), to track customer behaviour, coffee shop visits, busiest days, shop management details, etc. 
+Independent coffee shop owners from several major UK cities collaborated and decided to create an online database. The purpose of this database is to manage business-related information and share it with each other. Coffee shop owners aim to collect and store customer data (according to all recent regulations, e.g. privacy and information sharing). They will use collected data to track customer behaviour, coffee shop visits, busiest days, shop management details, etc. and share it across several coffee shops to promote sales.
 
-Database was designed and populated with sample entries (all entries were created via online tools and are not real).
-Customer details are hidden (their addresses and full names), however it is possible to see their geolocations.
+Database was designed and populated with sample entries (all entries were created via online tools and are not real). Cities, locations, and population figures are real.  The database was created using SQL and DBeaver 21.3.2 software. 
+
+Database has information on all customers and their visits. Their addresses and full names are hidden but it is possible to see their geolocations. Shop owners and managers wanted to know which days are busiest in the coffee shops, so they can work on better marketing strategies, promotions, and provide staff training on less busy days.
